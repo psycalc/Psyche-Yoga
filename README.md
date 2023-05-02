@@ -112,3 +112,21 @@ Linguistics, the scientific study of language, can be correlated with Psychosoph
 The study of artificial intelligence (AI) aims to create machines that can exhibit human-like cognitive abilities. 
 # Where in brain this happens?
 Synthesis and analysis are complex cognitive processes that involve multiple regions of the brain. The cerebral cortex, which is the outermost layer of the brain, plays a key role in these processes. It is responsible for functions such as consciousness, higher-order thinking, imagination, information processing, language, memory, perception, reasoning, sensation and voluntary physical action. The cerebral cortex can be divided into four lobes: the frontal lobe, parietal lobe, occipital lobe and temporal lobe. Each of these lobes has been associated with different functions ranging from reasoning to auditory perception.
+# BRAIN
+The synthesis and analysis processes, as well as the processing of aspects in Psychosophy, are not directly linked to specific brain regions. However, we can explore some general correlations between these cognitive processes and certain brain areas and networks involved in related functions.
+
+Synthesis: Synthesis, or the ability to integrate information, can be associated with the functioning of several brain regions and networks. The prefrontal cortex, particularly the dorsolateral prefrontal cortex (DLPFC), plays a crucial role in higher-order cognitive processes, such as integrating information from various sources, working memory, and decision-making. Additionally, the default mode network (DMN) is involved in integrating information during internally-focused cognitive processes, such as self-referential thinking, daydreaming, and mental simulations.
+
+Analysis: Analytical thinking, which involves breaking down complex information into smaller components, can be correlated with the functioning of the prefrontal cortex as well. The DLPFC, in particular, is involved in executive functions such as planning, problem-solving, and logical reasoning. The parietal cortex, especially the inferior parietal lobule (IPL), also plays a role in tasks that require attention, spatial processing, and numerical cognition, which can contribute to analytical thinking.
+
+Regarding the processing of aspects in Psychosophy (Emotion, Logic, Will, and Physics), the following brain areas may be involved:
+
+Emotion: The limbic system, which includes the amygdala, hippocampus, and cingulate cortex, plays a crucial role in processing emotions. The insula, a region within the cerebral cortex, is also involved in processing emotions and is thought to contribute to emotional awareness.
+
+Logic: Logical reasoning and problem-solving are primarily associated with the prefrontal cortex, particularly the DLPFC. The parietal cortex also plays a role in tasks that involve mathematical and logical thinking.
+
+Will: The neural basis of goal-directed behavior and motivation involves multiple brain areas and networks. The prefrontal cortex, especially the DLPFC, is involved in planning and decision-making. The anterior cingulate cortex (ACC) plays a role in conflict monitoring, reward-based decision-making, and motivation. The basal ganglia, including the striatum, are also involved in the regulation of goal-directed behavior and motivation.
+
+Physics: The processing of physical, spatial, and sensory information is associated with various brain regions, including the primary sensory cortices (visual, auditory, somatosensory) and the parietal cortex, particularly the posterior parietal cortex, which is involved in integrating sensory information and spatial processing.
+
+It is important to note that these brain areas and networks function together in a highly interconnected manner to support complex cognitive processes, and the correlations mentioned above are only a general approximation. The exact neural basis of Psychosophy's aspects and processes is still an open question and requires further research to fully understand how these concepts map onto brain function.
