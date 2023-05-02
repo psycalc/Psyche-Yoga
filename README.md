@@ -110,3 +110,5 @@ Linguistics, the scientific study of language, can be correlated with Psychosoph
 
 3. Artificial Intelligence:
 The study of artificial intelligence (AI) aims to create machines that can exhibit human-like cognitive abilities. 
+# Where in brain this happens?
+Synthesis and analysis are complex cognitive processes that involve multiple regions of the brain. The cerebral cortex, which is the outermost layer of the brain, plays a key role in these processes. It is responsible for functions such as consciousness, higher-order thinking, imagination, information processing, language, memory, perception, reasoning, sensation and voluntary physical action. The cerebral cortex can be divided into four lobes: the frontal lobe, parietal lobe, occipital lobe and temporal lobe. Each of these lobes has been associated with different functions ranging from reasoning to auditory perception.
